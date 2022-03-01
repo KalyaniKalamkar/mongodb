@@ -1,0 +1,4 @@
+use shopping
+db.createCollection("mobiles")
+db.createCollection("outofstock")
+
